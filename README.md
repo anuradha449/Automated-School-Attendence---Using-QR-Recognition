@@ -270,6 +270,5 @@ Add your screenshots below.
 
 ## ⭐ Star this repository if you found it useful!
 
-Made with ❤️ by **MERUGU ANURADHA**
 
 </div>
