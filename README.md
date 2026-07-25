@@ -250,20 +250,6 @@ Add your screenshots below.
 
 ---
 
-# 👩‍💻 Author
-
-## **MERUGU ANURADHA**
-
-**B.Tech – Information Technology**
-
-💙 Passionate about
-
-- Web Development
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Cyber Security
-
 ---
 
 <div align="center">
